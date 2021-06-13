@@ -6,8 +6,8 @@
  <h1> Projects</h1>
   
   <ul>
-  <li><a href="./academy_cinemas">Guitar Instructor Site</li>
-  <li><a href="./guitar_instructor">Movie Theatre Site</li>
+  <li><a href="./academy_cinemas.html">Guitar Instructor Site</li>
+  <li><a href="./guitar_instructor.html">Movie Theatre Site</li>
  </ul>
   
   <h3>
